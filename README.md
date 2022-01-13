@@ -1,6 +1,4 @@
-[![Header](https://github.com/onurkdev/onurkdev/raw/main/assets/logo.png "Header")]()
-
-# Hello, folks! <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="150px">
+# Hello, folks! <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="%20" >
 
 Hi All, Im Onur K. from Istanbul, Turkey. Former Textile Enginer and fresh Full-Stack Developer. You can find me on [![LinkedIn][3.2]][3].
 
@@ -45,7 +43,7 @@ Also interested in AI image processing with GANs.
 
 
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/onurkdev/onurkdev/assets/linkedin.svg (LinkedIn icon without padding)
+[3.2]: https://raw.githubusercontent.com/onurkdev/onurkdev/assets/linkedin.png (LinkedIn icon without padding)
 
 
 
