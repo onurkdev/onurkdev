@@ -43,7 +43,7 @@ Also interested in AI image processing with GANs.
 
 
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/onurkdev/onurkdev/master/assets/linkedin.png (LinkedIn icon without padding)
+[3.2]: https://raw.githubusercontent.com/onurkdev/onurkdev/master/assets/linkedinlogo.png (LinkedIn icon without padding)
 
 
 
