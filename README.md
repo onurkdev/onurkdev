@@ -6,7 +6,7 @@ Hi All, Im Onur K. from Istanbul, Turkey. Former Textile Enginer and fresh Full-
 
 Currently Im on a BilgeAdam Boost .NET FullStack Developer Bootcamp, will finish in 2022 June 
 
-Self Studied Dart, Flutter, NodeJS, MongoDB and C# via Udemy Classes
+Self Studied Dart, Flutter, NodeJS, MongoDB and C# via Udemy Classes , currently working on www.hrfashion.net web/mobile HR platform project 
 
 Also interested in AI image processing with GANs.
 
