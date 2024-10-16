@@ -1,12 +1,12 @@
 # Hello, folks! <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="%20" >
 
-Hi All, Im Onur K. from Istanbul, Turkey. Former Textile Enginer and fresh Full-Stack Developer. You can find me on [![LinkedIn][3.2]][3].
+Hi All, Im Onur K. from Berlin, Germany. Former Textile Enginer and fresh Full-Stack Developer. You can find me on [![LinkedIn][3.2]][3].
 
 ## &#x270d; About me
 
-Currently Im on a BilgeAdam Boost .NET FullStack Developer Bootcamp, will finish in 2022 June 
+Graduated from BilgeAdam Boost .NET FullStack Developer Bootcamp in 2022
 
-Self Studied Dart, Flutter, NodeJS, MongoDB and C# via Udemy Classes , currently working on www.hrfashion.net web/mobile HR platform project 
+Self Studied Dart, Flutter, NodeJS, MongoDB and C# via Udemy Classes 
 
 Also interested in AI image processing with GANs.
 
